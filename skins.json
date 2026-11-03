@@ -1,0 +1,44 @@
+[
+    {
+        "id": 90100,
+        "name": "LaPluma",
+        "displayName": "羽毛笔（珊瑚海岸IX-夏卉 FA210）",
+        "weaponType": "",
+        "element": "Arknights",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/LaPluma",
+        "image": "Covers/LaPluma.png",
+        "pmx": "v01/展示动作.pmx",
+        "base": "https://carlutic.github.io/arknights/"
+    },
+    {
+        "id": 90101,
+        "name": "Endminf",
+        "displayName": "女管理员（无面具）",
+        "weaponType": "",
+        "element": "Arknights",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Endminf",
+        "image": "Covers/Endminf.png",
+        "pmx": "v01/女管理员_Unmasked.pmx",
+        "base": "https://carlutic.github.io/arknights/"
+    },
+    {
+        "id": 90102,
+        "name": "Indigo",
+        "displayName": "深靛（待晴日）",
+        "weaponType": "",
+        "element": "Arknights",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Indigo",
+        "image": "Covers/Indigo.png",
+        "pmx": "v01/ZS.pmx",
+        "base": "https://carlutic.github.io/arknights/"
+    }
+]
